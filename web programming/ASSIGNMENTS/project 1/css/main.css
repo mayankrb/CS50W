@@ -1,0 +1,21 @@
+.main-center{
+    text-align: center;
+    vertical-align: center;
+    margin-top: 150px;
+}
+
+.google-logo-image{
+    height:200px;
+    border-radius: 10px;
+}
+
+.search-input-field{
+    width: 500px;
+    margin: 10px 10px;
+    border-radius: 20px;
+    padding:5px;
+}
+.btn btn-light{
+    border-radius: 5px;
+    text-align: center;
+}
